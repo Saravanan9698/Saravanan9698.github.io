@@ -1,11 +1,14 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
-</p>
-
-<h1 align="center">💻 Saravanan — Building AI that Matters 💻</h1>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  Passionate about Data Science | Deep Learning | LLMs 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=itssaravanan&show_icons=true&theme=tokyonight" alt="Saravanan's GitHub stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssaravanan&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssaravanan&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
